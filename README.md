@@ -1,6 +1,5 @@
 # App hosted on Netlify
-## Link:
-https://frosty-sinoussi-3afb75.netlify.app/
+## Link: https://breaking-bad-app-react.netlify.app
 
 # Getting Started with Create React App
 
